@@ -1,0 +1,28 @@
+.logged, .not-logged {
+  font-weight: 600;
+}
+
+.logged {
+  color: green;
+}
+
+.not-logged {
+  color: red;
+}
+
+.form-body {
+  margin-top: 20px;
+}
+
+.form-body input {
+  display: block;
+  padding: 5px 5px;
+  margin: 5px;
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.form-body button {
+  padding: 10px 20px;
+  margin-top: 15px;
+}
